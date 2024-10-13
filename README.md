@@ -61,7 +61,7 @@ To run these projects on your local machine, follow these steps:
 
 ## Contact
 
-For any questions or suggestions, please reach out to me at [yeddulamadhu@example.com].
+For any questions or suggestions, please reach out to me at [yeddulamadhu6@gmail.com].
 
 ---
 
